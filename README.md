@@ -45,7 +45,7 @@ Screen-aware Fortnite AFK & loot-tracking automation written from scratch for Wi
 
 | Key | Default | Description |
 | --- | --- | --- |
-| `timer_seconds` | `180` | Survival timer duration in seconds before leaving match |
+| `timer_seconds` | `300` | Survival timer duration in seconds before leaving match |
 | `drop_from_bus` | `true` | Automatically jump from the Battle Bus / Ship |
 | `bus_wait_seconds` | `8` | Seconds to wait on the Bus before jumping |
 | `anti_kick_interval_seconds` | `25` | Interval between anti-AFK stick/jump/pickaxe inputs |
