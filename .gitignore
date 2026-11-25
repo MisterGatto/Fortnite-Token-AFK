@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Native build artifacts
+native/build/
+.vs/
+
+# Runtime logs & debug captures
+*.log
+last_debug.txt
+last_frame.jpg
+debug_ocr.txt
+debug_capture.png
+ban_ocr.txt
+ban_capture.png
+pirate_token_ocr.txt
+pirate_token_capture.png

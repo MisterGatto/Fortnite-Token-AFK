@@ -1,0 +1,58 @@
+{
+  "timer_seconds": 300,
+  "drop_from_bus": true,
+  "bus_wait_seconds": 8,
+  "anti_kick_interval_seconds": 25,
+  "scan_interval_seconds": 1.5,
+  "menu_open_delay": 2.2,
+  "rb_delay": 0.7,
+  "confirm_delay": 0.8,
+  "strict_mode_match": false,
+  "allowed_modes": [
+    "BATTLE ROYALE"
+  ],
+  "blocked_modes": [
+    "RELOAD",
+    "FORTNITE OG",
+    "BLITZ",
+    "LEGO",
+    "FESTIVAL",
+    "MAIN STAGE",
+    "JAM STAGE",
+    "BATTLE STAGE",
+    "ROCKET RACING",
+    "BALLISTIC",
+    "SAVE THE WORLD",
+    "SALVA IL MONDO",
+    "CREATIVE",
+    "CREATIVA",
+    "BRICK LIFE",
+    "ODYSSEY",
+    "DELULU",
+    "TYCOON",
+    "BOX FIGHT",
+    "ZONE WARS",
+    "RED VS BLUE",
+    "THE PIT",
+    "DEATHRUN"
+  ],
+  "gizmo_keywords": [
+    "LUCKY LOCATOR",
+    "SPRITE LOCATOR",
+    "TREASURE LOCATOR",
+    "LOOT LOCATOR",
+    "PORTABLE EXTRACTOR",
+    "EXTRACTION ACCELERATOR",
+    "GIZMO"
+  ],
+  "token_text_keywords": [
+    "PIRATE TOKEN",
+    "PIRATE SHOP",
+    "SHOP TOKEN",
+    "TOKEN PIRATA",
+    "PIRATE ACCESS",
+    "FREE ITEM SHOP"
+  ],
+  "token_template_threshold": 0.72,
+  "gizmo_cooldown_seconds": 25
+}
